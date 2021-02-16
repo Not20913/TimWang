@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Tim Wang
 
-You can use the [editor on GitHub](https://github.com/Not20913/PCV/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Hi, I'm Yi Zhe Wang! (but most call me Tim)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I'm a third year student at the University of Toronto, majoring in statistical sciences and minoring in mathematics and history and philosophy of sciences.
 
 ### Markdown
 
