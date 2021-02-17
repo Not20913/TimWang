@@ -4,7 +4,7 @@ Hi, I'm Yi Zhe Wang! (but most call me Tim)
 
 I'm a third year student at the University of Toronto, majoring in statistical sciences and minoring in mathematics and history and philosophy of sciences.
 
-### Markdown
+### My portfolio
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
