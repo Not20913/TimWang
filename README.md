@@ -8,6 +8,6 @@ I'm a third year student at the University of Toronto, majoring in statistical s
 
 > Project 1: Covid-19 Toronto Data Exploration
 
-This project is about visualizing the reported cases of Covid-19 in Toronto in three different circumstances through coding. In the three sections of codes, I recreated a histogram of reported cases by dates, a histogram of cases by outbreak type and week, and three maps that shows low-income information and Covid-19 case information by neighborhood separately and together in one map. The project also includes my codes for the data wrangling section which prepared data frames that were suitable for data visualization.
+  This project is about visualizing the reported cases of Covid-19 in Toronto in three different circumstances through coding. In the three sections of codes, I recreated a histogram of reported cases by dates, a histogram of cases by outbreak type and week, and three maps that shows low-income information and Covid-19 case information by neighborhood separately and together in one map. The project also includes my codes for the data wrangling section which prepared data frames that were suitable for data visualization.
 
 
