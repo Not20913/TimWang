@@ -4,7 +4,7 @@ Hi, I'm Yi Zhe Wang! (but I mainly go by "Tim")
 
 I'm a third-year student at the University of Toronto, majoring in statistical sciences and minoring in mathematics and history and philosophy of sciences. Scientific theories and practices are powerful tools, but I believe that no single account can tell the whole story. This is why understanding the history and philosophy behind science is also important, as it teaches us not only it's power, but also it's limits. 
 
-## My portfolio: Statistics and Data Science
+## My Portfolio: Statistics and Data Science
 
 > ### [Project 1: Toronto Covid-19 Data Exploration](https://github.com/Not20913/PCV/blob/main/sta303_data-exploration_task_completed.pdf)
 
