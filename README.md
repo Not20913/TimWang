@@ -1,10 +1,10 @@
-## Tim Wang
+# Tim Wang
 
 Hi, I'm Yi Zhe Wang! (but most call me Tim)
 
-I'm a third year student at the University of Toronto, majoring in statistical sciences and minoring in mathematics and history and philosophy of sciences.
+I'm a third year student at the University of Toronto, majoring in statistical sciences and minoring in mathematics and history and philosophy of sciences. Scientific theories and practices are powerful tools, but I believe that connecting different areas of knowledge is more powerful. This is why understanding the history and philosophy behind science is important, as it teaches us not only it's power, but also it's limits. 
 
-### My portfolio
+## My portfolio
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
