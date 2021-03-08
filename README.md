@@ -12,4 +12,6 @@ This project is about visualizing the reported cases of Covid-19 in Toronto in t
 
 ## Portfolio: History and Philosophy of Science
 
-> ### [Essay: On Automata, Autonomy, and How They Relate to Artificial Intelligence](https://github.com/Not20913/TimWang/blob/main/Tim%20Wang%20-%20On%20Automata%2C%20Autonomy%2C%20and%20How%20They%20Relate%20to%20Artificial%20Intelligence.pdf)
+In the courses I took on history and philosophy of science, I worked on some interesting historical and philosophical topics. Here are some of the essays I wrote during those courses.
+
+> #### [Essay: On Automata, Autonomy, and How They Relate to Artificial Intelligence](https://github.com/Not20913/TimWang/blob/main/Tim%20Wang%20-%20On%20Automata%2C%20Autonomy%2C%20and%20How%20They%20Relate%20to%20Artificial%20Intelligence.pdf)
