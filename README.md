@@ -15,4 +15,5 @@ This project is about visualizing the reported cases of Covid-19 in Toronto in t
 In the courses I took on history and philosophy of science, I worked on some interesting historical and philosophical topics. Here are some of the essays I wrote during those courses.
 
 > [Essay: On Automata, Autonomy, and How They Relate to Artificial Intelligence](https://github.com/Not20913/TimWang/blob/main/Tim%20Wang%20-%20On%20Automata%2C%20Autonomy%2C%20and%20How%20They%20Relate%20to%20Artificial%20Intelligence.pdf) Theme: History and Philosophy of Artificial Intelligence 
+
 > [Essay: Can the Concept of Intelligence be Well-defined?](https://github.com/Not20913/TimWang/blob/main/Tim%20Wang%20-%20Can%20the%20Concept%20of%20Intelligence%20be%20Well-Defined.pdf) Theme: History and Philosophy of Artificial Intelligence
