@@ -20,6 +20,6 @@ Communicating ideas effectively through writing is important. This includes addr
 
 > [**Essay: The Problems with Defining Intelligence**](https://github.com/Not20913/TimWang/blob/main/Tim%20Wang%20-%20The%20Problems%20with%20Defining%20Intelligence.pdf) 
 
-#### Theme: History andd Philosophy of Mathematics
+#### Theme: History and Philosophy of Mathematics
 
 > [**Essay: The Handling of Imaginary Numbers by Cardano and Bomballi**](https://github.com/Not20913/TimWang/blob/main/Tim%20Wang%20-%20The%20Handling%20of%20Imaginary%20Numbers%20of%20Cardano%20and%20Bombelli.pdf)
