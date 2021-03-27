@@ -15,7 +15,7 @@ This project is about visualizing the reported cases of Covid-19 in Toronto in t
 Communicating ideas effectively through writing is important. This includes addressing the audience in the appropriate way, formulating arguments logically with supporting evidence, having a well-organized structure and etc. These paper which I wrote in various history and philosophy courses hopefully showcases some of these skills. Each of the topics should be easily digestible without subject specific knowledge, and are explained in the introductions. 
 
 > [**Essay: Differences Between Autonomy for Artificial Intelligence and Human Autonomy**](https://github.com/Not20913/TimWang/blob/main/Tim%20Wang%20-%20Autonomy%20for%20AI%20and%20Human%20Autonomy.pdf) 
-> > Theme: History and Philosophy of Artificial Intelligence 
+> Theme: History and Philosophy of Artificial Intelligence 
 
 > [**Essay: The Problems with Defining Intelligence**](https://github.com/Not20913/TimWang/blob/main/Tim%20Wang%20-%20The%20Problems%20with%20Defining%20Intelligence.pdf) 
-> > Theme: History and Philosophy of Artificial Intelligence
+> Theme: History and Philosophy of Artificial Intelligence
