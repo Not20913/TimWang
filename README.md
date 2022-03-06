@@ -1,8 +1,8 @@
 # About Me
 
-Hi, I'm Yi Zhe Wang! (but I also go by "Tim")
+Hi, I'm Tim Wang!
 
-I'm a third-year student at the University of Toronto, majoring in statistical sciences and minoring in mathematics and history and philosophy of sciences. Scientific theories and practices are powerful tools, but I believe that no single account can tell the whole story. This is why understanding the history and philosophy behind science is also important, as it teaches us not only it's power, but also it's limits. 
+I'm a fourth-year student at the University of Toronto, majoring in statistical sciences and minoring in mathematics and history and philosophy of sciences. Scientific theories and practices are powerful tools, but I believe that no single account can tell the whole story. This is why understanding the history and philosophy behind science is also important, as it teaches us not only it's insights, but also it's limits. 
 
 ## Portfolio: Statistics and Data Science
 
