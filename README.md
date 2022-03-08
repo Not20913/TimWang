@@ -15,7 +15,7 @@ This project is about visualizing the reported cases of Covid-19 in Toronto in t
 
 ## Portfolio: History and Philosophy of Science
 
-Communicating ideas effectively through writing is important. This includes addressing the audience in the appropriate way, formulating arguments logically with supporting evidence, having a well-organized structure and etc. These paper which I wrote in various history and philosophy courses hopefully showcases some of these skills. Each of the topics are explained in the introductions of each paper, and most should be easily digestible without subject specific knowledge. 
+Communicating ideas effectively through writing is important. This includes addressing the audience in the appropriate way, formulating arguments logically with supporting evidence, having a well-organized structure and etc. These paper which I wrote in various history and philosophy courses hopefully showcases some of these skills. Each of the topics are explained in the introductions of each paper, and most should be easily digestible without excessive subject specific knowledge. 
 
 #### Theme: History and Philosophy of Artificial Intelligence
 
