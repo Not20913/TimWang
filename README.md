@@ -2,7 +2,10 @@
 
 Hi, I’m Yi Zhe Wang! (but I also go by “Tim”)
 
-I'm a fourth-year student at the University of Toronto, majoring in statistical sciences and minoring in mathematics and history and philosophy of sciences. Scientific theories and practices are powerful tools, but I believe that no single theory can tell the whole story. This is why understanding the history and philosophy behind science is also important, as it teaches us not only it's insights, but also it's limits. 
+I'm a fourth-year student at the University of Toronto, majoring in statistical sciences and minoring in mathematics and history and philosophy of sciences. Beyond that, and more importantly, I am passionate about ecological conservations and re-establish a healthy connection between the natural world and us.
+
+Scientific theories and practices are at the forefront of our understanding of the universe, but I believe that no single theory can tell the whole story. Hence understanding the history and philosophy behind science is also important, as it teaches us not only it's insights, but also, it’s limits. Afterall, taking interdisciplinary approaches allow us to visualize the current ecological crisis in a new light, and provide fresh insights on creative solutions for problems that matters the most.
+
 
 ## Portfolio: Statistics and Data Science
 
