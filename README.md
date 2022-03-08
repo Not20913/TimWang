@@ -13,7 +13,7 @@ Scientific theories and practices are at the forefront of our understanding of t
 
 > ### [Essay: Addressing the Ecological Crisis](https://github.com/Not20913/TimWang/blob/341c1c956fee50336339cb225bb6d832176c5202/Tim%20Wang%20-%20Addressing%20the%20Ecological%20Crisis.pdf)
 
-Wellbeing is arguably what all living things strive for. Unfortunately, human activities are causing a global decline of wellbeing – the ecological crisis. These essays discusses some key causes and potential cures of the ecological crisis, guided by discussions in a remarkable introductory environmental science course I took. These essays are reflections of my ecological thinking and communication skills. 
+Wellbeing is arguably what all living things strive for. Unfortunately, human activities are causing a global decline of wellbeing – the ecological crisis. These essays discusses some key causes and potential cures of the ecological crisis, guided by discussions in a remarkable introductory environmental science course I took. These essays are reflections of my ecological thinking and demonstrates effective communication. 
 
 ## Portfolio: Statistics and Data Science
 
@@ -23,7 +23,7 @@ This project is about visualizing the reported cases of Covid-19 in Toronto in t
 
 ## Portfolio: History and Philosophy of Science
 
-Communicating ideas effectively through writing is important. This includes addressing the audience in the appropriate way, formulating arguments logically with supporting evidence, having a well-organized structure and etc. These paper which I wrote in various history and philosophy courses hopefully showcases some of these skills. Each of the topics are explained in the introductions of each paper, and most should be easily digestible without excessive subject specific knowledge. 
+Communicating ideas effectively through writing is important. This includes addressing the audience in the appropriate way, formulating arguments logically with supporting evidence, having a well-organized structure and etc. These paper which I wrote in various history and philosophy courses showcases some of these skills. Each of the topics are explained in the introductions of each paper, and most should be easily digestible without excessive subject specific knowledge. 
 
 #### Theme: History and Philosophy of Artificial Intelligence
 
