@@ -10,7 +10,7 @@ I'm a fourth-year student at the University of Toronto, majoring in statistical 
 
 > ### [Essay: Addressing the Ecological Crisis](https://github.com/Not20913/TimWang/blob/341c1c956fee50336339cb225bb6d832176c5202/Tim%20Wang%20-%20Addressing%20the%20Ecological%20Crisis.pdf)
 
-Wellbeing is arguably what all living things strive for. Unfortunately, human activities are causing a global decline of wellbeing – the ecological crisis. These essays discusses some key causes and potential cures of the ecological crisis, guided by discussions in a remarkable introductory environmental science course I took. These essays are reflections of my ecological thinking and demonstrates effective communication. 
+Wellbeing is arguably what all living things strive for. Unfortunately, human activities are causing a global decline of wellbeing – the ecological crisis. These essays discusses some key causes and potential cures of the ecological crisis, guided by discussions in a remarkable introductory environmental science course I took. These essays are reflections of my ecological thinking and demonstrations of effective communication skills. 
 
 ## Portfolio: Statistics and Data Science
 
