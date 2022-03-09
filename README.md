@@ -20,6 +20,10 @@ This project is about visualizing the reported cases of Covid-19 in Toronto in t
 
 ## Portfolio: History and Philosophy of Science
 
+#### Theme: COVID-19: Epistemology and Societal Implications
+
+> [**Essay: Conspiracy Theories and the COVID-19 Pandemic**](https://github.com/Not20913/TimWang/blob/13ef4548b96b3404142d8ad4ec4d5e1b6b3704af/HPS371%20Long%20Essay.pdf)
+
 #### Theme: History and Philosophy of Artificial Intelligence
 
 > [**Essay: Differences Between Autonomy for Artificial Intelligence and Human Autonomy**](https://github.com/Not20913/TimWang/blob/main/Tim%20Wang%20-%20Autonomy%20for%20AI%20and%20Human%20Autonomy.pdf) 
