@@ -1,6 +1,6 @@
 # About Me
 
-Hi, I’m Yi Zhe Wang! (but I also go by “Tim”)
+Hi, I’m Tim (Yi Zhe Wang)!
 
 I'm a fourth-year student at the University of Toronto, majoring in statistical sciences and minoring in mathematics and history and philosophy of sciences. Beyond that, and more importantly, I am passionate about ecological conservations and re-establish a healthy connection between the natural world and us.
 
@@ -17,6 +17,10 @@ Well-being is arguably what all living things strive for. Unfortunately, human a
 > ### [Project 1: Toronto Covid-19 Data Exploration](https://github.com/Not20913/PCV/blob/main/sta303_data-exploration_task_completed.pdf)
 
 This project is about visualizing the reported cases of Covid-19 in Toronto in three different circumstances through coding. In the three sections of codes, I recreated a histogram of reported cases by dates, a histogram of cases by outbreak type and week, and three maps that shows low-income information and Covid-19 case information by neighborhood separately and together in one map. The project also includes my codes for the data wrangling section which prepared data frames that were suitable for data visualization.
+
+> ### [Project 2: Data Analysis of a Fictional Company](https://github.com/Not20913/TimWang/blob/main/STA303%20Final%20Project.pdf)
+
+This group project is a focused on using descriptive and inferential statistics to answer the question of fairness in promotion, salary, and hiring processes of a fictional company *Black Saber* given nothing but the relevant data and context. This project demonstrates applied statistics, and scientific communication skills.
 
 ## Portfolio: History and Philosophy of Science
 
