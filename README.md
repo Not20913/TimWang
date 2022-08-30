@@ -1,8 +1,8 @@
 # About Me
 
-Hi, I’m Tim (Yi Zhe Wang)!
+Hi, I’m Tim!
 
-I'm a fourth-year student at the University of Toronto, majoring in statistical sciences and minoring in mathematics and history and philosophy of sciences. Beyond that, and more importantly, I am passionate about ecological conservations and re-establish a healthy connection between the natural world and us.
+With a passion for ecological conservations and re-establish healthy connections between the natural world and us, I am driven to be involved with environmental science and wildlife conservation efforts. I recently graduated with a Honours Bachelor of Science degree (BSc) from the University of Toronto, majoring in statistical sciences and minoring in mathematics and history and philosophy of sciences.
 
 ## Portfolio: Environmental Science
 
