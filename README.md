@@ -18,7 +18,7 @@ Focusing on: marketing, social media efforts improvements <br />
 **Instagram: [@communicatable.uoft](https://www.instagram.com/communicatable.uoft/)** <br />
 **Facebook: [@UofTCommunicatable](https://www.facebook.com/UofTCommunicatable/)**
 
-## Portfolio: Science Communication
+## Portfolio: Written Comunication and Critical Reasoning
 
 ### Discipline: Environmental Science
 
