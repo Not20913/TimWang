@@ -4,6 +4,20 @@ Hi, I’m Tim!
 
 With a passion for ecological conservations and re-establish healthy connections between the natural world and us, I am driven to be involved with environmental science and wildlife conservation efforts. I recently graduated with a Honours Bachelor of Science degree (BSc) from the University of Toronto, majoring in statistical sciences and minoring in mathematics and history and philosophy of science and technology (HPST).
 
+## Portfolio: Social Media and Content Creation
+
+### BC-Tech Transfer Program (BC TTP)
+05/09/2022 - Present
+
+#### Instagram: [@bc_ttp](https://www.instagram.com/bc_ttp/)
+#### Facebook: [@bcttp](https://www.facebook.com/bcttp/)
+
+### Communicatable Student Initiative Club U of T
+06/21/2021 - 04/03/2022
+
+#### Instagram: [@communicatable.uoft](https://www.instagram.com/communicatable.uoft/)
+#### Facebook: [@UofTCommunicatable](https://www.facebook.com/UofTCommunicatable/)
+
 ## Portfolio: Science Communication
 
 ### Discipline: Environmental Science
@@ -41,17 +55,3 @@ This project is about visualizing the reported cases of Covid-19 in Toronto in t
 > ### [Project 2: Data Analysis of a Fictional Company](https://github.com/Not20913/TimWang/blob/main/STA303%20Final%20Project.pdf)
 
 This group project is a focused on using descriptive and inferential statistics to answer the question of fairness in promotion, salary, and hiring processes of a fictional company *Black Saber* given nothing but the relevant data and context. This project demonstrates applied statistics, and scientific communication skills.
-
-## Portfolio: Social Media and Content Creation
-
-### BC-Tech Transfer Program (BC TTP)
-05/09/2022 - Present
-
-#### Instagram: [@bc_ttp](https://www.instagram.com/bc_ttp/)
-#### Facebook: [@bcttp](https://www.facebook.com/bcttp/)
-
-### Communicatable Student Initiative Club U of T
-06/21/2021 - 04/03/2022
-
-#### Instagram: [@communicatable.uoft](https://www.instagram.com/communicatable.uoft/)
-#### Facebook: [@UofTCommunicatable](https://www.facebook.com/UofTCommunicatable/)
