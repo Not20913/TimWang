@@ -9,14 +9,14 @@ With a passion for ecological conservations and re-establish healthy connections
 ### BC-Tech Transfer Program (BC TTP)
 05/09/2022 - Present <br />
 Focusing on: content creation, science communication, reaching and engaging target audiences <br />
-**Instagram: [@bc_ttp](https://www.instagram.com/bc_ttp/)** <br />
-**Facebook: [@bcttp](https://www.facebook.com/bcttp/)**
+> **Instagram: [@bc_ttp](https://www.instagram.com/bc_ttp/)** <br />
+> **Facebook: [@bcttp](https://www.facebook.com/bcttp/)**
 
 ### Communicatable Student Initiative Club U of T
 06/21/2021 - 04/03/2022 <br />
 Focusing on: marketing, social media efforts improvements <br />
-**Instagram: [@communicatable.uoft](https://www.instagram.com/communicatable.uoft/)** <br />
-**Facebook: [@UofTCommunicatable](https://www.facebook.com/UofTCommunicatable/)**
+> **Instagram: [@communicatable.uoft](https://www.instagram.com/communicatable.uoft/)** <br />
+> **Facebook: [@UofTCommunicatable](https://www.facebook.com/UofTCommunicatable/)**
 
 ## Portfolio: Written Communication and Critical Reasoning
 
