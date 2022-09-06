@@ -14,7 +14,7 @@ With a passion for ecological conservations and re-establish healthy connections
 
 Well-being is arguably what all living things strive for. Unfortunately, human activities are causing a global decline of wellbeing – the ecological crisis. These essays discuss the key causes of the ecological crisis and approaches to combat it. These essays are reflections of my ecological perspective and demonstrate effective communication skills, and were guided by discussions in a remarkable environmental science course I took.
 
-###  Discipline: History and Philosophy of Science
+###  Discipline: History and Philosophy of Science and Technology (HPST)
 
 #### Theme: COVID-19: Epistemology and Societal Implications
 
