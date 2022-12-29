@@ -2,7 +2,7 @@
 
 Hi, I’m Tim!
 
-With a passion for ecological conservations and re-establish healthy connections between the natural world and us, I am driven to get involved with environmental science or wildlife conservation efforts. I recently graduated with a Honours Bachelor of Science degree (HBSc) from the University of Toronto, majoring in statistical sciences and minoring in mathematics and history and philosophy of science and technology (HPST).
+I value well being, and endorse good communication. I recently graduated with a Honours Bachelor of Science degree (HBSc) from the University of Toronto, majoring in statistical sciences and minoring in mathematics and history and philosophy of science and technology (HPST).
 
 ## Portfolio: Written Communication and Critical Reasoning
 
