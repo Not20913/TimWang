@@ -2,7 +2,7 @@
 
 Hi, I’m Tim!
 
-I love nature, value well being, and endorse good communication. I recently graduated with a Honours Bachelor of Science degree (HBSc) from the University of Toronto, majoring in statistical sciences and minoring in mathematics and history and philosophy of science and technology (HPST).
+I enjoy continuous learning, endorse good communication, and value wellbeing. Finding innovative solutions that connects industries with ecological wellbeing while working with plants or animals is my area of interest.
 
 ## Portfolio: Written Communication and Critical Reasoning
 
