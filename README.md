@@ -45,13 +45,13 @@ This group project is a focused on using descriptive and inferential statistics 
 ## Portfolio: Social Media and Content Creation
 
 ### BC-Tech Transfer Program (BC TTP)
-05/09/2022 - Present <br />
+May/2022 - Sep/2022 <br />
 Focusing on: content creation, science communication, reaching and engaging target audiences <br />
 > **Instagram: [@bc_ttp](https://www.instagram.com/bc_ttp/)** <br />
 > **Facebook: [@bcttp](https://www.facebook.com/bcttp/)**
 
 ### Communicatable Student Initiative Club U of T
-06/21/2021 - 04/03/2022 <br />
+Jun/2021 - Apr/2022 <br />
 Focusing on: marketing, social media efforts improvements <br />
 > **Instagram: [@communicatable.uoft](https://www.instagram.com/communicatable.uoft/)** <br />
 > **Facebook: [@UofTCommunicatable](https://www.facebook.com/UofTCommunicatable/)**
