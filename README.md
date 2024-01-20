@@ -2,7 +2,7 @@
 
 Hi, I’m Tim!
 
-I enjoy continuous learning, endorse good communication, and value wellbeing. Finding innovative solutions that connects industries with ecological wellbeing while working with plants or animals is my area of interest.
+I enjoy continuous learning, endorse good communication, and value wellbeing. Finding innovative ecological solutions that connects scientific research with industries while working with nature is my area of interest.
 
 ## Portfolio: Written Communication and Critical Reasoning
 
@@ -12,7 +12,7 @@ I enjoy continuous learning, endorse good communication, and value wellbeing. Fi
 
 > ### [Essay: Addressing the Ecological Crisis](https://github.com/Not20913/TimWang/blob/341c1c956fee50336339cb225bb6d832176c5202/Tim%20Wang%20-%20Addressing%20the%20Ecological%20Crisis.pdf)
 
-Well-being is arguably what all living things strive for. Unfortunately, human activities are causing a global decline of wellbeing – the ecological crisis. These essays discuss the key causes of the ecological crisis and approaches to combat it. These essays are reflections of my ecological perspective and demonstrate effective communication skills, and were guided by discussions in a remarkable environmental science course I took.
+Well-being is arguably what all living things strive for. Unfortunately, human activities are causing a global decline of wellbeing – the ecological crisis. These essays discuss the key causes of the ecological crisis and approaches to combat it. These essays are reflections of my ecological perspective and demonstrate effective communication skills, and were guided by discussions in an environmental science course I took.
 
 ###  Discipline: History and Philosophy of Science and Technology (HPST)
 
