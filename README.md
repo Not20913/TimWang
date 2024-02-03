@@ -2,7 +2,7 @@
 
 Hi, I’m Tim!
 
-I enjoy continuous learning, endorse good communication, and value wellbeing. Finding innovative ecological solutions that connects scientific research with industries while working with nature is my area of interest.
+I enjoy continuous learning, endorse good communication, and value wellbeing. Finding innovative ecological solutions that connect scientific research with industries while working with nature is my area of interest.
 
 ## Portfolio: Written Communication and Critical Reasoning
 
